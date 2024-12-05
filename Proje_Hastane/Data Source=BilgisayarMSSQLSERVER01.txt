@@ -1,0 +1,1 @@
+Data Source=Bilgisayar\MSSQLSERVER01;Initial Catalog=HastaneProje;Integrated Security=True
