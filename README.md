@@ -1,6 +1,6 @@
 # PureCareHospital
 [TR]
-PureCare Hospital Veri Yönetim Sistemi C# diliyle geliştirilmiş ve SQL veri tabanını kullanan bir masaüstü uygulamasıdır. Uygulamada hasta, doktor ve sekreterlik işlemleri aynı anda kontrol edilebilmekte ve randevu alma, duyuru, randevu oluşturma gibi işlemler kolayca yapılmaktadır.
+PureCare Hospital Veri Yönetim Sistemi C# diliyle geliştirilmiş ve SQL veri tabanını kullanan bir masaüstü uygulamasıdır. Uygulamada hasta, doktor ve sekreterlik işlemleri aynı anda kontrol edilebilmekte ve randevu alma, duyuru, randevu oluşturma gibi çok sayıda işlem kolayca yapılabilmektedir.
 
 [EN]
 The PureCare Hospital Data Management System is a desktop application developed using the C# programming language and powered by an SQL database. The system allows simultaneous management of patient, doctor, and secretary operations, enabling seamless tasks such as appointment scheduling, announcements, and appointment creation.
